@@ -1,0 +1,14 @@
+{
+  "name": "hello-barcode-xpress-for-nodejs",
+  "version": "1.0.0",
+  "description": "A minimal Barcode Xpress for Node.js application which detects barcodes on a given bitmap image.",
+  "license": "MIT",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "barcode-js": "^13.4.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
